@@ -1,0 +1,15 @@
+/Users/pavelpashkov/Desktop/Семинар 3/bin/Debug/net6.0/Семинар 3
+/Users/pavelpashkov/Desktop/Семинар 3/bin/Debug/net6.0/Семинар 3.deps.json
+/Users/pavelpashkov/Desktop/Семинар 3/bin/Debug/net6.0/Семинар 3.runtimeconfig.json
+/Users/pavelpashkov/Desktop/Семинар 3/bin/Debug/net6.0/Семинар 3.dll
+/Users/pavelpashkov/Desktop/Семинар 3/bin/Debug/net6.0/Семинар 3.pdb
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/Семинар 3.csproj.AssemblyReference.cache
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/Семинар 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/Семинар 3.AssemblyInfoInputs.cache
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/Семинар 3.AssemblyInfo.cs
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/Семинар 3.csproj.CoreCompileInputs.cache
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/Семинар 3.dll
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/refint/Семинар 3.dll
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/Семинар 3.pdb
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/Семинар 3.genruntimeconfig.cache
+/Users/pavelpashkov/Desktop/Семинар 3/obj/Debug/net6.0/ref/Семинар 3.dll
